@@ -52,8 +52,15 @@ public class App
                 {2, 2, 0, 0, 3, 0},
                 {2, 2, 2, 3, 3, 3}
         };
-        System.out.println(LabTwoArrays.hourGlass(arrHour));
+        System.out.println("The biggest sum of hourglass in array is " + LabTwoArrays.hourGlass(arrHour));
 
+        // More Java Basics
+        MoreJavaBasics.booleans1();
+        MoreJavaBasics.booleans2();
+        MoreJavaBasics.switch1();
+        MoreJavaBasics.integers1();
+        MoreJavaBasics.integers2();
+        MoreJavaBasics.integers3();
 
     }
 
